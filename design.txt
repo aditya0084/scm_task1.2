@@ -1,2 +1,6 @@
 This is the design page of the website.
 This is some random text for demonstration.
+
+
+These changes are made in activity1.
+Previous changes were made in master branch.
