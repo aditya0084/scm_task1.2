@@ -1,4 +1,6 @@
 This is the design page of the website.
 This is some random text for demonstration.
 
+Changes made in master
+
 
